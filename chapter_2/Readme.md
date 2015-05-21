@@ -23,5 +23,5 @@ This means that I ran the command in the learn_command_line_exercises directory.
 When I run `pwd` it shows me `/Users/rebecca/workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises`.
 To find this in in my graphical file browser first I need to open Finder. Since I am in Users/rebecca, I need to click on rebecca on the left side of the screen.
 Next it says workspace, so I open the folder "workspace". The next thing pwd showed me was davinci_coders_t2_2015, so I open that folder.
-The last two parts of pwd were homework/learn_command_line_exercises, so I open the folder "homework" and then the fodler "learn_command_line_exercises".
+The last two parts of pwd were homework/learn_command_line_exercises, so I open the folder "homework" and then the folder "learn_command_line_exercises".
 Now I have found the path with Finder.
