@@ -1,2 +1,4 @@
 # learn_command_line_exercises
-Repo for when I learned the command line
+This is a repo for when I learned the command 
+line as part of the Build the Toolbelt class
+at DaVinci.
