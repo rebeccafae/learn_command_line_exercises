@@ -12,6 +12,8 @@
     - `cd ../workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/chapter_5/temp/`
 7. Remember when you put quotes around a directory with spaces in it? You can do that with any command. For example, if you have a directory I Have Fun, then you can do: cd "I Have Fun"
     - `cd ../../chapter_4/"I Have Fun"`
+    
+    
 ---
 
 >Can you cd into the temp directory?
