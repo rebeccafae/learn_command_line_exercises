@@ -28,11 +28,11 @@ When I run `pwd` I get /Users/rebecca/workspace/davinci_coders_t2_2015/homework/
 
 >Can you go to the slash temp directory?
  
-No. If I try to run `cd /temp` it returns "No such file or directory".
+I would run `cd /tmp`.
 
 >Can you go to the slash temp slash log directory?
 
-No. If it run `cd /temp/log` it returns "No such file or directory".
+I would run `cd /tmp/log`.
 
 >What does the .. argument to cd do?
 
