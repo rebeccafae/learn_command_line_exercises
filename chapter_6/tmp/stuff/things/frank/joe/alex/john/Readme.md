@@ -12,7 +12,7 @@ ls -lR lists each directory and what is in that directory. It keeps going throug
 
 > What's in the tmp directory?
 
-From the chapter_6 directory I run `cd tmp`, then I run `ls` and it returns 'stuff'.
+I would run `ls chapter_6/tmp/` and it returns 'stuff'.
 
 > Can you show me what files are in that directory?
 
