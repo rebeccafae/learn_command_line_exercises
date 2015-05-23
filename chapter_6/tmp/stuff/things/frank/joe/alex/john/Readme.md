@@ -30,11 +30,6 @@ It appears I have no files in my home directory, only other directories.
 
 > What's in slash temp?
 
-If I run `ls /temp` it returns 'No such file or directory'
-
 If I run `ls /tmp` it returns 'KSOutOfProcessFetcher.501.qQkpPp2uZLdVc5pukHmfJMR4bkM=
                             com.apple.launchd.9cRuZZ9YCo
                             com.apple.launchd.KgNP2McTt8'
-
-Is this right??? I have no idea what that is.
-
