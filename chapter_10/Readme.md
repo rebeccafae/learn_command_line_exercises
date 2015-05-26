@@ -18,3 +18,7 @@ Then I ran `cp foo.txt /tmp`.
 > Can you copy .bash_profile in your home directory to the current directory?
 
 From the chapter_10 directory I would run `cp ~/.bash_profile .`
+
+> Can you zero out a file?
+
+Yes. I would run `cp /dev/null log/production.log`.
