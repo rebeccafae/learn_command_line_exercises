@@ -15,3 +15,5 @@ Yes, I would run `mv log/production.log /tmp`
 > Can you zero out that file?
 
 Yes. Moving it to an existing file zero's it out. I ran `mv /tmp/production.log tmp/blah.txt` and now when I open blah.txt it is empty.
+
+Another way is to run `cp /dev/null log/production.log`.
