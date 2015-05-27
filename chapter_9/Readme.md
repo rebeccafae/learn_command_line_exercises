@@ -15,4 +15,4 @@ I ran `touch foo.txt`
 
 > Explain what happens if you touch an existing file:
 
-I ran `touch foo.txt` again. I do not get an error message, it appears that nothign at all happens. When I `ls` and when I check the GUI, there is still only one foo.txt file.
+When you touch an existing file it changes the timestamp to the current time.
