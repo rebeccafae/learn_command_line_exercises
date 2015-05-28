@@ -10,8 +10,6 @@ I would run `grep davinci bar.txt`
 
 I would run `grep "Rebecca Jackson" *.txt`. It would return "My name is Rebecca Jackson." from foo.txt.
 
-I am still trying to figure out how to use grep on all the .txt files on my computer.
-
 > Explain what the -i option to grep accomplishes.
 
 The -i ignores whether the letters are capitalized or not. If I run `grep -i this *.txt` it will return the lines with "This is a new file." and "This is an old file." because it ignores if it is this or This.
